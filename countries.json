@@ -1,0 +1,82 @@
+[
+    {
+        "name": "United States",
+        "population": 331002651,
+        "languages": ["English", "Spanish"],
+        "capital": "Washington, D.C.",
+        "gdp": 21439.53,
+        "currency": "US Dollar"
+      },
+      {
+        "name": "China",
+        "population": 1444216107,
+        "languages": ["Standard Mandarin"],
+        "capital": "Beijing",
+        "gdp": 16642.18,
+        "currency": "Chinese Yuan"
+      },
+      {
+        "name": "India",
+        "population": 1393409038,
+        "languages": ["Hindi", "English"],
+        "capital": "New Delhi",
+        "gdp": 3173.709,
+        "currency": "Indian Rupee"
+      },
+      {
+        "name": "Russia",
+        "population": 145912025,
+        "languages": ["Russian"],
+        "capital": "Moscow",
+        "gdp": 1712.522,
+        "currency": "Russian Ruble"
+      },
+      {
+        "name": "Brazil",
+        "population": 212559417,
+        "languages": ["Portuguese"],
+        "capital": "Brasília",
+        "gdp": 1639.087,
+        "currency": "Brazilian Real"
+      },
+      {
+        "name": "Canada",
+        "population": 37589262,
+        "languages": ["English", "French"],
+        "capital": "Ottawa",
+        "gdp": 1740.633,
+        "currency": "Canadian Dollar"
+      },
+      {
+        "name": "France",
+        "population": 67406000,
+        "languages": ["French"],
+        "capital": "Paris",
+        "gdp": 2583.565,
+        "currency": "Euro"
+      },
+      {
+        "name": "Germany",
+        "population": 83190556,
+        "languages": ["German"],
+        "capital": "Berlin",
+        "gdp": 3996.753,
+        "currency": "Euro"
+      },
+      {
+        "name": "Australia",
+        "population": 25687041,
+        "languages": ["English"],
+        "capital": "Canberra",
+        "gdp": 1493.168,
+        "currency": "Australian Dollar"
+      },
+      {
+        "name": "Japan",
+        "population": 125410000,
+        "languages": ["Japanese"],
+        "capital": "Tokyo",
+        "gdp": 5100.617,
+        "currency": "Japanese Yen"
+      }
+]
